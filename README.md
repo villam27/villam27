@@ -1,8 +1,6 @@
 <h1 align="center">Hi there !</h1>
 <h3 align="center">I am a C and Cpp developer and student at 42 school</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=villam27&label=Profile%20views&color=d210e2&style=flat-square" alt="villam27" /> </p>
-
 - 🔭 I’m currently working on **ft_transcendence**
 
 - 🌱 I’m currently learning **Qt, React, Nestjs**
@@ -22,3 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villam27&" alt="villam27" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=villam27&label=Profile%20views&color=d210e2&style=flat-square" alt="villam27" /> </p>
