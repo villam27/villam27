@@ -1,7 +1,7 @@
 <h1 align="center">Hi there !</h1>
 <h3 align="center">I am a C and Cpp developer and student at 42 school</h3>
 
-- 🔭 I’m currently working on **ft_transcendence**
+- 🔭 I’m currently working on 😴😴😴
 
 - 🌱 I’m currently learning **Qt, React, Nestjs**
 
